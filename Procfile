@@ -1,0 +1,1 @@
+worker: mirlo bot.py
